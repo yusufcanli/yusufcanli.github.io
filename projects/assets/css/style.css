@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito:300,400,700');
+
+.github-fork-ribbon::before {
+    background-color: #368eca;
+}
+
+body {
+    background: #e8e8e8;
+}
+
+.wrapper {
+    padding-left: 15%;
+    padding-top: 3%;
+}
+
+.lwriter {
+    height: 80px;
+    font-size: 70px;
+    width: 0ch;
+    border: 0;
+    padding: 10px;
+    outline: 0;
+    overflow: hidden;
+    resize: none;
+    background: transparent;
+    font-family: Nunito;
+}
+
+#lwriter:focus {
+    outline: 0;
+}
+
+.lwcarpet {
+    border-right: 1px solid;
+}
+
+.one {
+    font-size: 35px;
+    height: 35px;
+    color: #303030;
+}
+
+.two {
+    font-size: 20px;
+    height: 20px;
+    color: #db3d3d;
+    -webkit-transform: rotate(5deg);
+    transform: rotate(5deg);
+    margin: 10px;
+}
+
+.three {
+    font-size: 50px;
+    height: 50px;
+    color: #217dce;
+}
+
+.four {
+    text-decoration: underline;
+    cursor: pointer;
+    color: #093d85;
+}
+
+.five {
+    font-size: 35px;
+    height: 35px;
+    color: #ce3c19;
+}
