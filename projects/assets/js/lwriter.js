@@ -79,5 +79,5 @@ $(document).ready(function () {
     }, 2000);
 })
 $('.four').click(function () {
-    window.location.href = "https://github.com/yusufcanli/light-writer.js";
+    window.location.href = "https://github.com/yusufcanli/light-writer-js";
 })
